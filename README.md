@@ -1,7 +1,3 @@
-Sure! Here's a **standard format `README.md` file** for your project, complete with sections like project description, setup, usage, model performance, and more.
-
----
-
 # 🌸 Iris Flower Classification and Analysis
 
 ## 📌 Overview
@@ -149,6 +145,4 @@ The predicted flower species is: virginica
 
 This project is open-source and available under the MIT License.
 
----
 
-Let me know if you'd like the `README.md` formatted for GitHub with badges or in `.ipynb` or `.txt` format too!
